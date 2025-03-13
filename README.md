@@ -18,8 +18,7 @@ The Contoso Bistro lasagna is a classic! The outdoor back patio is such a vibe, 
 
 **Insights:**
 
-*A análise mostra que o restaurante tem uma ótima reputação, com destaque para a comida italiana, o ambiente agradável e o bom atendimento. Comentários como ‘comida incrível’ e ‘ótima vibe’ reforçam isso. No entanto, a menção a ‘longas esperas’ e ‘comida boa o suficiente’ indicam que há espaço para melhorar a experiência. No geral, o sentimento é bem positivo, mas reduzir o tempo de espera e aprimorar alguns detalhes gastronômicos pode elevar ainda mais a satisfação dos clientes*
-
+*A análise mostra que o restaurante tem uma ótima reputação, com destaque para a comida italiana, o ambiente agradável e o bom atendimento. Comentários como ‘comida incrível’ e ‘ótima vibe’ reforçam isso. No entanto, a menção a ‘longas esperas’ e ‘comida boa o suficiente’ indicam que há espaço para melhorar a experiência. No geral os feedbacks dados dizem que o sentimento é bem positivo, mas reduzir o tempo de espera e aprimorar alguns detalhes gastronômicos pode elevar ainda mais a satisfação dos clientes, aumentando assim ainda mais a reputação do restaurante*
 
 # Sentença 2
 
@@ -35,4 +34,8 @@ The Contoso Bistro lasagna is a classic! The outdoor back patio is such a vibe, 
 
 **Insights:**
 
-*A análise de sentimento mostrou que a frase tem um tom claramente negativo, com 94% de certeza. O texto expressa insatisfação com a comida da cafeteria, que está piorando com o tempo, além de criticar o preço de $15 por um hambúrguer com batatas fritas, sugerindo que o valor não é justo ou subsidiado. O descontentamento se reflete na pontuação, quase sem espaço para neutralidade ou positividade.*
+*A análise de sentimento mostrou que a frase tem um tom claramente negativo, com 94% de certeza. O texto expressa insatisfação com a comida da cafeteria, que está piorando com o tempo, além de criticar o preço de $15 por 
+um hambúrguer com batatas fritas, sugerindo que o valor não é justo ou subsidiado. O descontentamento se reflete na pontuação, quase sem espaço para neutralidade ou positividade.*
+
+*Isso ajuda a empresa a refletir sobre o preço que está colocando nos seus produtos, ajudando assim a tentar correr atrás do prejuízo de uma maneira mais rápida e eficiente*
+
